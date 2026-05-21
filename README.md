@@ -56,10 +56,9 @@ Dataset contains:
 | ----------------------- | --------------------------- |
 | Programming Language    | Python                      |
 | Data Processing         | Pandas, NumPy               |
-| Visualization           | Matplotlib, Seaborn, Plotly |
+| Visualization           | Matplotlib, Seaborn         |
 | Machine Learning        | Scikit-learn                |
-| Association Analysis    | Mlxtend                     |
-| Dashboard               | Streamlit / Power BI        |
+| Dashboard               |  Power BI                   |
 | Development Environment | Jupyter Notebook            |
 
 ---
@@ -70,9 +69,8 @@ Dataset contains:
 * NumPy
 * Matplotlib
 * Seaborn
-* Plotly
 * Scikit-learn
-* Mlxtend
+
 
 ---
 
