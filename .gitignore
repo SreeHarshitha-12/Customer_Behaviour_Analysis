@@ -69,7 +69,3 @@ node_modules/
 
 # If you use Git LFS for large files, track them with `git lfs track` instead of committing.
 
-# Local-only directories and files (keep local, do not push to GitHub)
-notebooks/
-images/
-experimenting.ipynb
