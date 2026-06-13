@@ -133,7 +133,7 @@ Based on K-Means clustering, the customer base is segmented into four distinct p
 │   ├── 10_RFM_analysis.ipynb            # Scoring customers on RFM
 │   └── 11_kmeans_clustering.ipynb       # Customer segmentation with K-Means
 ├── README.md                            # Comprehensive project documentation
-└── Mall_Customers.csv                   # Raw customer dataset (reference)
+
 ```
 
 ---
